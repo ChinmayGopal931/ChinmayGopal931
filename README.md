@@ -1,4 +1,4 @@
-Hi, I contribute to entropy and orther random things like
+Hi, I contribute to entropy and occasionally build things like:
 
 - 🌸 **Magnolia**, a **perpetual DEX aggregator** [Magnolia](https://project-magnolia.vercel.app/)
 - 🔮 **Wagerly** a **permissionless predictions market** built entirely on **HyperEVM** [Wagerly]([https://project-magnolia.vercel.app/](https://wagerly-markets.vercel.app/))
